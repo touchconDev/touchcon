@@ -1,5 +1,5 @@
 # Touchcon
-https://touchcon.io
+![Alt text](http://touchcon.io/images/symbol_toc.png)
 
 # What is Touchcon?
 TouchCoin is the cryptocurrency that will be used in the Ad Mining Platform for working based on Etheruem Blockchain.
