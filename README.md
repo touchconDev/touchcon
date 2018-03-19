@@ -9,7 +9,7 @@ Besides, it activates TouchCoin’s genuine ecosystem through separately buildin
 The working process of Ad Mining as project's core platform is a system that the advertisers of the O2O market have paid for advertisement after making use of the QR code which is charged with TouchCoin in their own advertisement, and advertising cost is paid to the TouchCoin holder as interest through the AMR program.<br/>
 TouchCon Project is a multi-type project that develops three platform missions for working based on Blockchain.
 
-# TouchCon Platform Project?
+# Touchcon Platform Project?
 TouchCoin is the cryptocurrency that will be used in the Ad Mining Platform for working based on Etheruem Blockchain.<br/>
 The TouchCon Project will be able to solve the problems of existing computer mining through running the Ad Mining platform that coordinates online/offline (O2O) advertisement and mining.
 
