@@ -5,7 +5,11 @@
 ![Alt text](http://touchcon.io/images/symbol_toc.png)
 
 TouchCoin is the cryptocurrency that will be used in the Ad Mining Platform for working based on Etheruem Blockchain.<br/>
-The TouchCon Project will be able to solve the problems of existing computer mining through running the Ad Mining platform that coordinates online/offline (O2O) advertisement and mining.
+The TouchCon Project will be able to solve the problems of existing computer mining through running the Ad Mining platform that coordinates online/offline (O2O) advertisement and mining.<br/>
+Besides, it activates TouchCoin’s genuine ecosystem through separately building of TOC Mobile App and connecting with network of decentralized TOC Exchange.<br/>
+The working process of Ad Mining as project's core platform is a system that the advertisers of the O2O market have paid for advertisement after making use of the QR code which is charged with TouchCoin in their own advertisement, and advertising cost is paid to the TouchCoin holder as interest through the AMR program.<br/>
+TouchCon Project is a multi-type project that develops three platform missions for working based on Blockchain.
+
 
 # Things to achieve through the project
 · It is to expand the ecosystem of TouchCoin by building a reward system that applies QR code technology through the convergence of cryptocurrency mining mechanism and the O2O (Online to Offline) advertisement. As a result, this will contribute to the sound development of crytocurrency ecosystem as well as solve the problems of computer mining including free from the pressure of regulations and environmental groups in each country.<br/>
