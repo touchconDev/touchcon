@@ -21,9 +21,9 @@ Touchcon platform that uses 3D QR data code for O2O advertisement marketing for 
 * Since the birth of the Bitcoin Genesis block on January 3, 2009, the cryptocurrency market has continued to grow steadily over the past decade going through numerous adversity and rapid fluctuations.<br/>
 * However, the mining market issuing coins has caused many problems due to excessive computer use and has faced resistance from regulatory of environmental organization all the countries of the world.<br/>
 * To solve the problem of current computer mining at the same time and to create a more reliable ecosystem, we propose a new alternative that can revolutionize the current computer mining method.<br/>
--Ecosystem maintenance: Building TouchCon Remining Platform with advertising marketing in real-world using QR Data Code technology<br/>
--Ecosystem building: Building a mobile application so that you can use TouchCon anytime in the real world (payment/transfer/exchange/mining)<br/>
--Ecosystem stabilization: Establishing Bitbigbang Exchange to exchange and sell TouchCon anywhere in the world<br/>
+- Ecosystem maintenance: Building TouchCon Remining Platform with advertising marketing in real-world using QR Data Code technology<br/>
+- Ecosystem building: Building a mobile application so that you can use TouchCon anytime in the real world (payment/transfer/exchange/mining)<br/>
+- Ecosystem stabilization: Establishing Bitbigbang Exchange to exchange and sell TouchCon anywhere in the world<br/>
 * The TouchCon project can overcome the limitations of computer mining, thereby helping to escape from the pressures of environmental organizations and various laws and regulations in each country of the world, as well as contributing to the sound development of a cryptocurrency ecosystem<br/>
 # Project Technology
 * R&D on the realization of universalization of 3-dimensional TouchCon QR Data Code<br/>
