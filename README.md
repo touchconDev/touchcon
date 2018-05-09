@@ -1,5 +1,5 @@
 # Touchcon
-![Alt text](http://touchcon.io/images/front/logo.png)
+![Alt text](http://touchcon.io/images/front/symbol_2.png)
 
 <http://touchcon.io>
 # What is Touchcon?
