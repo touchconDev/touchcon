@@ -18,8 +18,13 @@ Touchcon platform that uses 3D QR data code for O2O advertisement marketing for 
 * **D-TOC EXchange**
   * The Bitbigbang Exchange will be deployed in 10 countries around the world and will be linked to a block-chain-based network. The TouchCon Project builds the Bit BigBang Exchange (www.Bitbigbang.com) in ten countries and will be interworked as a network. Bit BigBang Exchange will be established for the first time in Jakarta, Indonesia, which is called as the big population country of Southeast Asian.The HTS-based Bit BigBang Exchange will enable faster trading and exchange, and BitBigBang's 'automated trading system' is a program to optimize the cryptocurrency trading. The HTS-based Bit BigBang Exchange, which is now fused with the P2P concept, will make ecosystem of TouchCon maintain more secured. 
 # Things to achieve through the project
-* It is to expand the ecosystem of TouchCoin by building a reward system that applies QR code technology through the convergence of cryptocurrency mining mechanism and the O2O (Online to Offline) advertisement. As a result, this will contribute to the sound development of crytocurrency ecosystem as well as solve the problems of computer mining including free from the pressure of regulations and environmental groups in each country.<br/>
-* The advertiser uses the QR code for advertisement and pays the advertising costs. At this moment, the TouchCoin AMR program activates the reward system in accordance with the quantity and holding period of TouchCoin. The orderly reward of AMRP is very important when it comes to securing the TouchCoin ecosystem.
+* Since the birth of the Bitcoin Genesis block on January 3, 2009, the cryptocurrency market has continued to grow steadily over the past decade going through numerous adversity and rapid fluctuations.<br/>
+* However, the mining market issuing coins has caused many problems due to excessive computer use and has faced resistance from regulatory of environmental organization all the countries of the world.<br/>
+* To solve the problem of current computer mining at the same time and to create a more reliable ecosystem, we propose a new alternative that can revolutionize the current computer mining method.<br/>
+-Ecosystem maintenance: Building TouchCon Remining Platform with advertising marketing in real-world using QR Data Code technology<br/>
+-Ecosystem building: Building a mobile application so that you can use TouchCon anytime in the real world (payment/transfer/exchange/mining)<br/>
+-Ecosystem stabilization: Establishing Bitbigbang Exchange to exchange and sell TouchCon anywhere in the world<br/>
+* The TouchCon project can overcome the limitations of computer mining, thereby helping to escape from the pressures of environmental organizations and various laws and regulations in each country of the world, as well as contributing to the sound development of a cryptocurrency ecosystem<br/>
 # Project Technology
 * R&D on the realization of universalization of 3-dimensional TouchCon QR Data Code<br/>
 * Technological Implementation of QR Data Code for Advertising & Marketing Application<br/>
