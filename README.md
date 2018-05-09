@@ -10,7 +10,7 @@ Blockchain-based cryptocurrency for on-line to off-line advertising marketing.<b
 - 'Bitbigbang Exchange' for the ecosystem maintenance. For stabilizing the TouchCon ecosystem, we will establish an international cryptocurrency exchange and try to connect the network to expand it to the whole world.<br/>
 Now, the connection between cryptocurrency and the real world will be getting easy and its connectedness is even higher!<br/>
 Touchcon platform that uses 3D QR data code for O2O advertisement marketing for the first time<br/>
-
+![Alt text](http://touchcon.io/images/front/project_img01.png)
 * **"QR Data Code" Ad Marketing Platform**
   * QR Data Code AMP is harmonized with advertising and marketing with cryptocurrency. Ad Marketing is a naturalistic reminning method that aims to liberalism and egalitarianism without needing computers. There are many problems in computer mining in present. That is problems such as a meaningless waste of power energy, accelerating global warming, increased hacking of miners PCs, and hard fork problem, etc. The QR Data Code AMP solves all of this and redefines the relationship between advertising, mining, and rewards in a nature-friendly way. It also provides a motivation for cryptocurrency to get closer to the real world. QR Data Code AMP is the world's first pure analog remining and is the closest mining mechanism to the essence of all cryptocurrency.  
 * **TOC Mobile App**
