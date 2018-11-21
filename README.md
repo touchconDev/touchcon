@@ -2,14 +2,15 @@
 ![Alt text](http://touchcon.io/images/front/symbol_toc.png)
 
 <http://touchcon.org>
-# What is Touchcon?
-Blockchain-based cryptocurrency for on-line to off-line advertising marketing.<br/>
-"The meeting of the QR Data Code and the Fourth Industrial Revolution is the beginning of the era of cryptocurrency 3.0"<br/>
-- "Advertising Marketing Mining Platform using QR Data Code" for the ecosystem building.It is a platform to do re-mining TouchCon through O2O ad marketing, and it can solve the coin mining problem and global warming having to use the computer excessively. <br/>
-- 'TOC Mobile Application' for ecosystem stabilization. It is an application that supports TouchCon mined again through QR Data Code to use it in the real world. * Payment - Transfer - Exchange - Ad Marketing<br/>
-- 'Bitbigbang Exchange' for the ecosystem maintenance. For stabilizing the TouchCon ecosystem, we will establish an international cryptocurrency exchange and try to connect the network to expand it to the whole world.<br/>
-Now, the connection between cryptocurrency and the real world will be getting easy and its connectedness is even higher!<br/>
-Touchcon platform that uses 3D QR data code for O2O advertisement marketing for the first time<br/>
+# What is Touchcon Platform?
+If we combine the O2O advertising and QR Data Code, cryptocurrency can be mined without electricity and various Airdrops can be realized. Traditional PoW mining system which uses massive amount of electricity has a disadvantage of wasting the electric
+energy and computer resources so that it accelerates the global warming. Moreover, Airdrop is also devalued because of the indiscrimination distribution.<br/>
+Therefore, we suggest the TouchCon Platform which can solve the traditional Pow mining and Airdrop problems by combining the O2O Advertising and QR Data Code.<br/>
+This platform utilizes the Advertising Mechanism of O2O market and supports Cryptocurrency mining and various Airdrops. It makes the consecutive Block which connects the PoA (Proof of Advertising) by the scanning the QR Code when the value of the cryptocurrency and information is inserted into the QR Data Code. If someone scans the QR Data Code, the Block initiating PoA processed consecutively so that it becomes the unalterable record. Moreover, Airdrop will be distributed based on the features of each cryptocurrency through the ways suggested by O2O Market so it makes the ecosystem much more stable.<br/>
+The most recent Block proves the order of the PoA and it identifies when and where the cryptocurrency was mined. As long as
+there is a Node which get the Mining and Airdrop through the PoA, the consecutive chain of PoA will be continued and this
+Network plays a role of stabling the cryptocurrency ecosystem. It has s spreading effect of attracting another Node, and the Random value of cryptocurrency will induce the voluntary efforts of every Node.<br/>
+
 
 * **"QR Data Code" Ad Marketing Platform**
   * QR Data Code AMP is harmonized with advertising and marketing with cryptocurrency. Ad Marketing is a naturalistic reminning method that aims to liberalism and egalitarianism without needing computers. There are many problems in computer mining in present. That is problems such as a meaningless waste of power energy, accelerating global warming, increased hacking of miners PCs, and hard fork problem, etc. The QR Data Code AMP solves all of this and redefines the relationship between advertising, mining, and rewards in a nature-friendly way. It also provides a motivation for cryptocurrency to get closer to the real world. QR Data Code AMP is the world's first pure analog remining and is the closest mining mechanism to the essence of all cryptocurrency.  
