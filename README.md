@@ -30,6 +30,5 @@ Network plays a role of stabling the cryptocurrency ecosystem. It has s spreadin
 
 * **TouchCon Value**
   * This is a popular platform compared to the traditional mining platform and it play an important role of expanding cryptocurrency ecosystem by combine the O2O Advertising and Smart QR Code. It will make the decentralized system of mining in the end.<br/><br/>
-
 You Scan the Smart QR Code on your mobile phone.<br/>
 From a minimum of 1 to a maximum of 10,000!<br/><br/> 
