@@ -1,7 +1,7 @@
 # Touchcon
 ![Alt text](http://touchcon.io/images/front/symbol_toc.png)
 
-<http://touchcon.io>
+<http://touchcon.org>
 # What is Touchcon?
 Blockchain-based cryptocurrency for on-line to off-line advertising marketing.<br/>
 "The meeting of the QR Data Code and the Fourth Industrial Revolution is the beginning of the era of cryptocurrency 3.0"<br/>
