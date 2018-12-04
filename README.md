@@ -26,8 +26,8 @@ It is the step that is developed as open source so that big data which matches u
   * Types of Cryptocurrency - Type of Reward: Mining and Airdrop - Quantity - Random Criteria – Data entry Scan type - Built-in scan, external scan - Disclosure of information - Big data analysis and evaluation - Feedback</br></br>
 
 
-* **Token Distribution Information (Total: 840 million)**
-  * ①TOC SoftCap(8.63%): Angel Supply+Private Supply+Pre Supply</br>
+* **Token Distribution Information (Total: 840 million)**</br></br>
+①TOC SoftCap(8.63%): Angel Supply+Private Supply+Pre Supply</br>
 ②TOC Burn(4.37%): Achieved soft cap</br> 
 ③Foundation & Capital Reserve(7%): 12~24 months Lock-Up</br>
 ④PoW Mining Program(10%): 30 years CPU Mining(Open Mining Program)</br>
@@ -35,6 +35,6 @@ It is the step that is developed as open source so that big data which matches u
 
 
 * **Project Core Value**</br></br>
-[TAA]  TAA is a gathering of advertisers to use SQC in advertising and plays a very important role in the TouchCon ecosystem. A monopoly status is recognized for each type of business, and extension of the term is possible for only two years. Advertiser selection is determined by a community vote, and they are eligible to purchase SQC at a special discount. All O2O companies are covered.</br>
-[AMRP]  The Ad Marketing Reward Program (AMRP) is a special rewards program that rewards SQC proceeds sold to advertisers to the TOC community. Each year, SQC will be sold and distributed to meet the four purposes.</br>
-[TJS]  The industry's first attempted jury system will elect 23 juries by the community vote to oversee Fair SQC Ad Scan. The term of the jury is two years, and to register as a candidate, you must hold 100,000 TOC. They will be distributed 3% of the annual amount of advertising mining for their activities.</br>
+[TAA]  TAA is a gathering of advertisers to use SQC in advertising and plays a very important role in the TouchCon ecosystem. A monopoly status is recognized for each type of business, and extension of the term is possible for only two years. Advertiser selection is determined by a community vote, and they are eligible to purchase SQC at a special discount. All O2O companies are covered.</br></br>
+[AMRP]  The Ad Marketing Reward Program (AMRP) is a special rewards program that rewards SQC proceeds sold to advertisers to the TOC community. Each year, SQC will be sold and distributed to meet the four purposes.</br></br>
+[TJS]  The industry's first attempted jury system will elect 23 juries by the community vote to oversee Fair SQC Ad Scan. The term of the jury is two years, and to register as a candidate, you must hold 100,000 TOC. They will be distributed 3% of the annual amount of advertising mining for their activities.</br></br>
