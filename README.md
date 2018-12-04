@@ -1,4 +1,4 @@
-# Touchcon
+# TouchCon
 ![Alt text](http://touchcon.io/images/front/symbol_toc.png)
 
 <http://touchcon.org>
