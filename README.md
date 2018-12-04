@@ -23,7 +23,7 @@ It is the step that is developed as open source so that big data which matches u
 
 
 * **Smart QR Code Process**
-  * Types of Cryptocurrency - Type of Reward: Mining and Airdrop - Quantity - Random Criteria – Data entry Scan type - Built-in scan, external scan - Disclosure of information - Big data analysis and evaluation - Feedback</br></br>
+Types of Cryptocurrency - Type of Reward: Mining and Airdrop - Quantity - Random Criteria – Data entry Scan type - Built-in scan, external scan - Disclosure of information - Big data analysis and evaluation - Feedback</br></br>
 
 
 * **Token Distribution Information (Total: 840 million)**</br></br>
