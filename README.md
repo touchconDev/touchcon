@@ -2,7 +2,8 @@
 ![Alt text](http://touchcon.io/images/front/symbol_toc.png)
 
 <http://touchcon.org>
-# What is Touchcon Platform?
+# TouchCon Smart QR Code
+# Random Mining(Airdrop) & Big Data Platform
 If we combine the O2O advertising and Smart QR Code, cryptocurrency can be mined without electricity and various Airdrops can be realized. Traditional PoW mining system which uses massive amount of electricity has a disadvantage of wasting the electric
 energy and computer resources so that it accelerates the global warming. Moreover, Airdrop is also devalued because of the indiscrimination distribution.<br/><br/>
 Therefore, we suggest the TouchCon Platform which can solve the traditional Pow mining and Airdrop problems by combining the O2O Advertising and Smart QR Code.<br/><br/>
