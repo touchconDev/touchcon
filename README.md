@@ -22,7 +22,7 @@ It is the step that is developed as open source so that big data which matches u
   * Through the TouchCon data, advertisers and companies can accurately grasp the consumption tendency according to the occupation, sex, and age of the user. In particular, when the user reaches the location where the SQC exists at anytime, anywhere, or any place based on the provision of the user location information, the information can be received in real time. The Big Data will provide more specific data on when, where, who, and what products or services were purchased. Once the scanned SQC data is burned, which cannot be used again due to the disappearance of the encoded data, double scan mining is prevented.<br/><br/>
 
 
-* **Smart QR Code Process**
+* **Smart QR Code Process**</br></br>
 Types of Cryptocurrency - Type of Reward: Mining and Airdrop - Quantity - Random Criteria – Data entry Scan type - Built-in scan, external scan - Disclosure of information - Big data analysis and evaluation - Feedback</br></br>
 
 
