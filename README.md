@@ -12,7 +12,6 @@ It is the step of mining only the TouchCon with the SQC advertisement scan. 70% 
 It is the step of supporting the mining and Airdrop of all Altcoins. If it scans the SQC which has the values of cryptocurrency, it can be used to fairly and transparently support mining and Airdrop of all Altcoins. A Testnet will be released in June 2020.</br></br>
   *  Stage 3: TOC BD Platform</br>
 It is the step that is developed as open source so that big data which matches user information and scan information can be used for cryptocurrency advertising marketing, and it is the completion stage of TouchCon. The process consists of collecting user information DB and scan information collecting from transactions, storing them in a blockchain, analyzing them, and applying them to advertisement marketing. A Testnet will be released in December 2020.</br></br>
-![Alt text](https://cdn.imweb.me/thumbnail/20181015/5bc3d6e3c7132.png)</br></br>
 
 
 
