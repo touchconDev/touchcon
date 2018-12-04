@@ -4,13 +4,13 @@
 <http://touchcon.org>
 # What is TouchCon Platform
 
-* **TouchCon Smart QR Code Random Mining(Airdrop) & Big Data Platform**
-  * The TouchCon is a blockchain based cryptocurrency that supports random mining and Airdrop through the scanning of SQC(Smart QR Code). It aims to be the advertising marketing platform to use big data through the matching of user information and scan information. The project will be developed in three stages with a total of eight Testnets and three Mainnets releases. The development teams of five major Asian countries are working together to develop blockchain SQC codes and global marketing ads.</br></br>
-1) Stage 1: TOC Application</br>
+* **TouchCon Smart QR Code Random Mining(Airdrop) & Big Data Platform**</br></br>
+The TouchCon is a blockchain based cryptocurrency that supports random mining and Airdrop through the scanning of SQC(Smart QR Code). It aims to be the advertising marketing platform to use big data through the matching of user information and scan information. The project will be developed in three stages with a total of eight Testnets and three Mainnets releases. The development teams of five major Asian countries are working together to develop blockchain SQC codes and global marketing ads.</br></br>
+  * 1) Stage 1: TOC Application</br>
 It is the step of mining only the TouchCon with the SQC advertisement scan. 70% of the total TouchCon issuance will be re-mined for 10 years, and 60 million TOCs are distributed annually to the O2O market. The first TouchCon QR App Testnet announcement showed that initial data input and encoding were saved as a Point, and that the cryptocurrency can be extracted through SQC scanning. During this period, patent applications were submitted in Asian countries including Korea.</br></br>
-2) Stage 2: TOC Platform</br>
+  * 2) Stage 2: TOC Platform</br>
 It is the step of supporting the mining and Airdrop of all Altcoins. If it scans the SQC which has the values of cryptocurrency, it can be used to fairly and transparently support mining and Airdrop of all Altcoins. A Testnet will be released in June 2020.</br></br>
-3) Stage 3: TOC BD Platform</br>
+  * 3) Stage 3: TOC BD Platform</br>
 It is the step that is developed as open source so that big data which matches user information and scan information can be used for cryptocurrency advertising marketing, and it is the completion stage of TouchCon. The process consists of collecting user information DB and scan information collecting from transactions, storing them in a blockchain, analyzing them, and applying them to advertisement marketing. A Testnet will be released in December 2020.</br></br>
 
 
