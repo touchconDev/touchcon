@@ -2,7 +2,8 @@
 ![Alt text](http://touchcon.io/images/front/symbol_toc.png)
 
 <http://touchcon.org>
-# What is TouchCon Platform
+# TouchCon
+Next Generation O2O Advertising Innovation by Smart Qr Code(SQC)
 
 * **TouchCon Smart QR Code Random Mining(Airdrop) & Big Data Platform**</br></br>
 The TouchCon is a blockchain based cryptocurrency that supports random mining and Airdrop through the scanning of SQC(Smart QR Code). It aims to be the advertising marketing platform to use big data through the matching of user information and scan information. The project will be developed in three stages with a total of eight TestNets and three MainNets releases. The development teams of five major Asian countries are working together to develop blockchain SQC codes and global marketing ads.</br></br>
