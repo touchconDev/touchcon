@@ -1,9 +1,9 @@
 # TouchCon
 ![Alt text](http://helpdownload.kr/touchcon/toc_logo_2.png)
 
-<http://touchcon.org>
+**<http://touchcon.org>**
 
-Next Generation O2O Advertising Innovation by Smart Qr Code(SQC)</br>
+Next Generation O2O Advertising Innovation by Smart Qr Code(SQC)</br></br>
 
 * **Innovation in Digital Martketing Reward**</br></br>
 The market size of mileage (point) system for new customers in digital marketing exceeded about 6 billion USD by 2018. Compared to the market size, however, these reward systems have strong disadvantages. For example, it should be used only in a limited number of places, it will be expired due to their expiration date, and there is no change in their value.</br></br>
