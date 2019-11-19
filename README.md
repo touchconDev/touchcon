@@ -5,36 +5,37 @@
 # TouchCon
 Next Generation O2O Advertising Innovation by Smart Qr Code(SQC)
 
-* **TouchCon Smart QR Code Random Mining(Airdrop) & Big Data Platform**</br></br>
-The TouchCon is a blockchain based cryptocurrency that supports random mining and Airdrop through the scanning of SQC(Smart QR Code). It aims to be the advertising marketing platform to use big data through the matching of user information and scan information. The project will be developed in three stages with a total of eight TestNets and three MainNets releases. The development teams of five major Asian countries are working together to develop blockchain SQC codes and global marketing ads.</br></br>
-  * Stage 1: TOC Application</br>
-It is the step of mining only the TouchCon with the SQC advertisement scan. 70% of the total TouchCon issuance will be re-mined for 10 years, and 60 million TOCs are distributed annually to the O2O market. The first TouchCon QR App TestNet announcement showed that initial data input and encoding were saved as a Point, and that the cryptocurrency can be extracted through SQC scanning. During this period, patent applications were submitted in Asian countries including Korea.</br></br>
-  *  Stage 2: TOC Platform</br>
-It is the step of supporting the mining and Airdrop of all Altcoins. If it scans the SQC which has the values of cryptocurrency, it can be used to fairly and transparently support mining and Airdrop of all Altcoins. A TestNet will be released in June 2020.</br></br>
-  *  Stage 3: TOC BD Platform</br>
-It is the step that is developed as open source so that big data which matches user information and scan information can be used for cryptocurrency advertising marketing, and it is the completion stage of TouchCon. The process consists of collecting user information DB and scan information collecting from transactions, storing them in a blockchain, analyzing them, and applying them to advertisement marketing. A Testnet will be released in December 2020.</br></br>
+* **Innovation in Digital Martketing Reward**</br></br>
+The market size of mileage (point) system for new customers in digital marketing exceeded about 6 billion USD by 2018. Compared to the market size, however, these reward systems have strong disadvantages. For example, it should be used only in a limited number of places, it will be expired due to their expiration date, and there is no change in their value.</br></br>
+TouchCon Ad Scan Random Reward creates and distributes Smart QR Code (SQC), which overcomes the disadvantages of the mileage (point) reward system by sharing the mutual benefit between advertisers and consumers. SQC Random Reward is a platform that helps the consumers using products and services to have a interesting experience and actively participate in the TouchCon ecosystem.</br></br>
 
 
 
   
-* **TouchCon Platform Value**
-  * SQC is a method in which an unspecified user acquires a corresponding cryptocurrency by scanning QR Codes having a random value of cryptocurrency. When the cryptocurrency data is obtained through the SQC scan, it is stored in the blockchain while being recognized as a transaction. At the same time, consecutive scans are matched with user information, stored in the block, and consecutive information is collected in the order in which they are scanned. At this time, the consumption tendency information of the users including the block transaction can be utilized as big data through matching.<br/><br/>
-  * Through the TouchCon data, advertisers and companies can accurately grasp the consumption tendency according to the occupation, sex, and age of the user. In particular, when the user reaches the location where the SQC exists at anytime, anywhere, or any place based on the provision of the user location information, the information can be received in real time. The Big Data will provide more specific data on when, where, who, and what products or services were purchased. Once the scanned SQC data is burned, which cannot be used again due to the disappearance of the encoded data, double scan mining is prevented.<br/><br/>
+* **What is TouchCon**<br/><br/>
+The TouchCon is a platform that creates mutual benefits between advertisers and consumers by generating Smart QR Code Ad contents<br/><br/>
+  * [Linking O2O Ads with SQC Random Rewards]<br/>
+  Ad reward platform that shares profits by linking advertisers and consumers to SQC. It activates cryptocurrency ecosystem through random reward based on blockchain.<br/><br/>
+  * [Supporting transparent and fair Airdrop service]<br/>
+The TouchCon platform contributes to stabilizing the cryptocurrency ecosystem by transparently and fairly supporting the Airdrops of all altcoins.<br/><br/>
+  * [Operating database matching consumer information and scan information]<br/>
+With the operation of a database that matches consumer information with scan information, advertisers can participate in more efficient rewards system.</br></br>
 
 
-* **Smart QR Code Process**</br></br>
-Types of Cryptocurrency - Type of Reward: Mining and Airdrop - Quantity - Random Criteria – Data entry Scan type - Built-in scan, external scan - Disclosure of information - Big data analysis and evaluation - Feedback</br></br>
+* **TouchCoin(TOC)**</br></br>
+TOC is a cryptocurrency that is acquired randomly by scanning Smart QR Code (SQC) in exchange for the consumption of goods and services. TouchCon can be used for settlement to buy goods and services, remittance, or exchange for money through trading in international Exchanges on the TOC app platform.</br></br>In the TouchCon’s 2nd round of development, most of the cryptocurrencies are supported by fair and transparent Airdrop, and the DB that matches the consumer information with the SQC information is analyzed to make a Bigdata based on the Blockchain technology, and it will be shared with the advertisers. The TouchCon will take the initiative in expanding the ecosystem as a first random reward system through O2O advertising.
 
 
-* **Token Distribution Information (Total: 840 million)**</br></br>
-①TOC SoftCap(8.63%): Angel Supply+Private Supply+Pre Supply</br>
-②TOC Burn(4.37%): Achieved soft cap</br> 
-③Foundation & Capital Reserve(7%): 12~24 months Lock-Up</br>
-④PoW Mining Program(10%): 30 years CPU Mining(Open Mining Program)</br>
-⑤SQC Scan Mining(70%) → 10 years(TOC Platform Mining)</br></br>
 
+* **Token Distribution Information (Total: 250 million)**</br></br>
+①SQC Random Reward(40%)</br>
+②Private&Pre Sale(29%)</br> 
+③TOC Capital Reserve(12%)</br>
+④Foundation(10%):</br>
+⑤Global Business(5%)</br>
+⑥Development Team(4%)</br>
 
 * **Project Core Value**</br></br>
-  * [TAA]  TAA is a gathering of advertisers to use SQC in advertising and plays a very important role in the TouchCon ecosystem. A monopoly status is recognized for each type of business, and extension of the term is possible for only two years. Advertiser selection is determined by a community vote, and they are eligible to purchase SQC at a special discount. All O2O companies are covered.</br></br>
-  * [AMRP]  The Ad Marketing Reward Program (AMRP) is a special rewards program that rewards SQC proceeds sold to advertisers to the TOC community. Each year, SQC will be sold and distributed to meet the four purposes.</br></br>
-  * [TJS]  The industry's first attempted jury system will elect 23 juries by the community vote to oversee Fair SQC Ad Scan. The term of the jury is two years, and to register as a candidate, you must hold 100,000 TOC. They will be distributed 3% of the annual amount of advertising mining for their activities.</br></br>
+  * [TAA]  TAA(TouchCon Advertiser Alliance) is an advertiser alliance that will use SQC for O2O advertising. Any company in the world can freely apply.</br></br>
+  * [AMRP]  AMRP(Ad Marketing Program) is a reward program that returns the SQC sold to O2O advertisers back to the ecosystem each year.</br></br>
+  * [TJS]  TJS(TouchCon Juror System) is a decentralization policy and a total of 23 jurors are elected through a community vote for a fair and transparent ecosystem</br></br>
