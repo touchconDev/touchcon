@@ -23,7 +23,7 @@ With the operation of a database that matches consumer information with scan inf
 
 
 * **TouchCoin(TOC)**</br></br>
-TOC is a cryptocurrency that is acquired randomly by scanning Smart QR Code (SQC) in exchange for the consumption of goods and services. TouchCon can be used for settlement to buy goods and services, remittance, or exchange for money through trading in international Exchanges on the TOC app platform.</br></br>In the TouchCon’s 2nd round of development, most of the cryptocurrencies are supported by fair and transparent Airdrop, and the DB that matches the consumer information with the SQC information is analyzed to make a Bigdata based on the Blockchain technology, and it will be shared with the advertisers. The TouchCon will take the initiative in expanding the ecosystem as a first random reward system through O2O advertising.
+TOC is a cryptocurrency that is acquired randomly by scanning Smart QR Code (SQC) in exchange for the consumption of goods and services. TouchCon can be used for settlement to buy goods and services, remittance, or exchange for money through trading in international Exchanges on the TOC app platform.</br></br>In the TouchCon’s 2nd round of development, most of the cryptocurrencies are supported by fair and transparent Airdrop, and the DB that matches the consumer information with the SQC information is analyzed to make a Bigdata based on the Blockchain technology, and it will be shared with the advertisers. The TouchCon will take the initiative in expanding the ecosystem as a first random reward system through O2O advertising.</br></br>
 
 
 
@@ -33,7 +33,7 @@ TOC is a cryptocurrency that is acquired randomly by scanning Smart QR Code (SQC
 ③TOC Capital Reserve(12%)</br>
 ④Foundation(10%):</br>
 ⑤Global Business(5%)</br>
-⑥Development Team(4%)</br>
+⑥Development Team(4%)</br></br></br>
 
 * **Project Core Value**</br></br>
   * [TAA]  TAA(TouchCon Advertiser Alliance) is an advertiser alliance that will use SQC for O2O advertising. Any company in the world can freely apply.</br></br>
