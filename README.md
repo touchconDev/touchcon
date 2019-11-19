@@ -3,7 +3,7 @@
 
 <http://touchcon.org>
 # TouchCon
-Next Generation O2O Advertising Innovation by Smart Qr Code(SQC)
+Next Generation O2O Advertising Innovation by Smart Qr Code(SQC)</br>
 
 * **Innovation in Digital Martketing Reward**</br></br>
 The market size of mileage (point) system for new customers in digital marketing exceeded about 6 billion USD by 2018. Compared to the market size, however, these reward systems have strong disadvantages. For example, it should be used only in a limited number of places, it will be expired due to their expiration date, and there is no change in their value.</br></br>
@@ -33,7 +33,7 @@ TOC is a cryptocurrency that is acquired randomly by scanning Smart QR Code (SQC
 ③TOC Capital Reserve(12%)</br>
 ④Foundation(10%):</br>
 ⑤Global Business(5%)</br>
-⑥Development Team(4%)</br></br></br>
+⑥Development Team(4%)</br></br>
 
 * **Project Core Value**</br></br>
   * [TAA]  TAA(TouchCon Advertiser Alliance) is an advertiser alliance that will use SQC for O2O advertising. Any company in the world can freely apply.</br></br>
