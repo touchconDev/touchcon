@@ -1,5 +1,5 @@
 # TouchCon
-![Alt text](http://touchcon.io/images/front/symbol_toc.png)
+![Alt text](http://helpdownload.kr/touchcon/toc_logo_2.png)
 
 <http://touchcon.org>
 # TouchCon
