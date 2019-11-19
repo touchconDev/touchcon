@@ -2,7 +2,7 @@
 ![Alt text](http://helpdownload.kr/touchcon/toc_logo_2.png)
 
 <http://touchcon.org>
-# TouchCon
+
 Next Generation O2O Advertising Innovation by Smart Qr Code(SQC)</br>
 
 * **Innovation in Digital Martketing Reward**</br></br>
